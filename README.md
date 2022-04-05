@@ -1,0 +1,5 @@
+- React
+- Typescript
+- Styled Components
+- MirageJS (Simulate API)
+- Axios (Manage API)
