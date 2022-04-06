@@ -3,3 +3,5 @@
 - Styled Components
 - MirageJS (Simulate API)
 - Axios (Manage API)
+- react-modal
+- polished
