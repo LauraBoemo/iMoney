@@ -23,7 +23,6 @@ export function App() {
 
   return (
     <TransactionsProvider> 
-      {/* O estado da aplicação modal está sendo controlado por um elemento filho através do repasse de funções */}
       <Header onOpenNewTransactionModal={handleOpenNewTransactionModalOpen}/>
       <Dashboard />
       <NewTransactionModal 
